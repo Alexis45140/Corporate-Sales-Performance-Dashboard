@@ -15,7 +15,8 @@ L'objectif est d'analyser les performances de vente d'une entreprise de cosméti
 - **Rentabilité :** Malgré des volumes plus faibles, le dentifrice (`Toothpaste`) maintient une marge stable.
 
 ## 🖥️ Aperçu du Dashboard
-<img width="1408" height="792" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/d3fd85a2-0694-40ab-be9e-d52daf110637" />
+<img width="1401" height="785" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/badc39fc-d799-4ed3-a035-3597418b5de6" />
+
 
 
 ## 🚀 Comment utiliser ce projet
